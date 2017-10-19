@@ -11,3 +11,12 @@ npm install
 npm start
 npm test
 ```
+#if you want run with vscode,you should do these steps;
+npm install http-server --save-dev
+#then
+npm run build
+npm start
+#final press F5 choese the chrome as run environiment
+F5
+#ok, good luck
+#some gift ctrl + c,you can break some task
